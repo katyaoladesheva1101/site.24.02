@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+header {
+background-color: aqua;
+border-radius: 10px;
+padding: 10px;
+}
+h1{
+    color: hotpink;
+    border:5px solid indigo;
+    text-align: center;
+}
+.foto1{
+    background-color: lawngreen;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.foto2{
+    background-color: lawngreen;
+    border-radius: 10px;
+    padding: 10px;
+}
+.foto3{
+    background-color: lawngreen;
+    border-radius: 10px;
+    padding: 10px;
+}
+.foto4{
+    background-color: lawngreen;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+footer{
+    background-color: #8fddf2;
+    padding: 10px;
+}
+.t{
+    color: red;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
